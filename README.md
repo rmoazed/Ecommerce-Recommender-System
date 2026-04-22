@@ -21,7 +21,7 @@ This project builds an end-to-end recommendation system using real-world e-comme
 This project uses the RetailRocket e-commerce dataset. The dataset can be accessed by clicking the link below.
 
 
-![Access Dataset Here](https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset)
+[Access Dataset Here](https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset)
 
 
 The dataset contains anonymous user interaction events (product views, add-to-cart actions, transactions), and includes item-level metadata (category hierarchy, item properties) as well.
