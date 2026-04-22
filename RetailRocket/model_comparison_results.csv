@@ -1,0 +1,3 @@
+model,hit_rate_at_10,recall_at_10
+Popularity Baseline,0.0061432856483617905,0.0061432856483617905
+Item-Based Collaborative Filtering,0.02672185048454084,0.02672185048454084
