@@ -123,6 +123,7 @@ Key insights include:
  - recommendation_app.py: Streamlit dashboard
  - RetailRocket/: processed datasets used for modeling and app
  - Notebooks/: data preparation, modeling, and evaluation workflows
+ - Images: contains screenshots of app
  - requirements.txt: project dependencies
 
 
