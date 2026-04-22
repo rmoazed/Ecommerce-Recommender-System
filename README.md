@@ -4,9 +4,17 @@ An end-to-end ML recommendation system using real-world e-commerce interaction d
 
 # View the App
 
-View the interactive app by clicking the link below.
+View the interactive app by clicking the link below. If app has not been accessed recently may require up to 30 seconds to load or pressing of reactivation button.
 
-(include link when app deployed)
+[View App Here](https://ecommerce-recommender-system-fcffnpilbvxhfzpdaud5ft.streamlit.app/)
+
+
+App preview:
+
+![Dashbord Preview](Images/dashboard_screenshot_1.png)
+
+
+![Dashboard Preview](Images/dashboard_screenshot_2.png)
 
 
 ## Project Overview
@@ -77,7 +85,7 @@ The evaluation of the two recommendation systems showed that the collaborative f
 To view the app, click the link below.
 
 
-(Insert app link once deployed)
+[View App Here](https://ecommerce-recommender-system-fcffnpilbvxhfzpdaud5ft.streamlit.app/)
 
 
 The features of the app are as follows:
