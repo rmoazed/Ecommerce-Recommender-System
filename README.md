@@ -132,7 +132,7 @@ Key insights include:
 Future project improvements include: 
 
 
--Building hybrid models that incorporate both collaboration and metadata
+- Building hybrid models that incorporate both collaboration and metadata
 - User-level personalization
 - Real-time recommendation updates
 - More robust product metadata (names, descriptions, embeddings)
