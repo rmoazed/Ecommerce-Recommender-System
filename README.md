@@ -82,7 +82,7 @@ The evaluation of the two recommendation systems showed that the collaborative f
 
 # App Features
 
-To view the app, click the link below.
+To view the app, click the link below. If the app has not been accessed recently may require up to 30 seconds to load or pressing of reactivation button.
 
 
 [View App Here](https://ecommerce-recommender-system-fcffnpilbvxhfzpdaud5ft.streamlit.app/)
